@@ -1,0 +1,19 @@
+[ 2024-03-11 14:57:53,466 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-11 14:57:53,466 ] 96 werkzeug - INFO -  * Debugger PIN: 921-266-280
+[ 2024-03-11 14:58:03,407 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:03] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-03-11 14:58:03,463 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:03] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-03-11 14:58:03,470 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:03] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-03-11 14:58:03,501 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:03] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-03-11 14:58:03,626 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:03] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-03-11 14:58:19,215 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:19] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-03-11 14:58:44,730 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:44] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-03-11 14:58:44,761 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-03-11 14:58:44,820 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-03-11 14:58:45,196 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:45] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-03-11 14:58:45,236 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 14:58:45] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-03-11 15:14:57,422 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 15:14:57] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-03-11 15:14:57,453 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 15:14:57] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-03-11 15:14:57,454 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 15:14:57] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-03-11 15:14:57,487 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 15:14:57] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-03-11 15:14:57,550 ] 96 werkzeug - INFO - 127.0.0.1 - - [11/Mar/2024 15:14:57] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-03-11 15:22:20,032 ] 96 werkzeug - INFO -  * Detected change in 'e:\\projects\\mlproject\\src\\components\\data_transformation.py', reloading

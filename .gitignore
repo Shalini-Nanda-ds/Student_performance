@@ -29,5 +29,5 @@ share/python-wheels/
 MANIFEST
 
 # Environments
-.artifacts/
+
 .logs
